@@ -3,6 +3,6 @@
 
 ## Introduction
 
-### Hey, I am [Test](https://github.com/bonaventureogeto/Git-Zindua)
+### GIT
 
-### This is a test repository for learning Git and Github
+### GITHUB
