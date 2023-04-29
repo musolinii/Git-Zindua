@@ -10,5 +10,6 @@
 ## GIT COMMANDS
 
  - `git init`: Create a new git repository
- 
- <h4>Merge Conflicts</h4>
+    - `git status`: Compare working directory, staging area, and current branch
+ ### Merge Conflicts
+    - This happens when merge cannot be completed automatically
