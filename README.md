@@ -10,3 +10,5 @@
 ## GIT COMMANDS
 
  - `git init`: Create a new git repository
+ 
+ <h4>Merge Conflicts</h4<
